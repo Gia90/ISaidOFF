@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">I Said OFF!</string>
+    <string name="xposed_desc">Remove the annoying confirmation dialog when turning the mobile data off though quick settings on Oreo.</string>
+</resources>
